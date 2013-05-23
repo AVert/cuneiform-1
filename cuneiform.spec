@@ -1,7 +1,7 @@
 Summary:	OCR
 Name:		cuneiform
 Version:	1.1.0
-Release:	2
+Release:	3
 License:	BSD-like
 Group:		Applications
 Source0:	http://launchpad.net/cuneiform-linux/1.1/1.1/+download/%{name}-linux-%{version}.tar.bz2
